@@ -1,4 +1,4 @@
-# readme
+# README Generator
     
   License: MIT ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
   https://opensource.org/licenses/MIT
@@ -15,22 +15,22 @@
   - [Questions](#questions)
   
   ## Description 
-  produce readme
+  This project uses Node.js to dynamically generate a readme file for a project.
 
   ## Installation 
-  you need node in your system
+  You will require Node and download inquirer.
   
   ## Usage 
-  use the terminal and type node index.js
+  You will need to use the terminal to run Node Index and answer the questions.
   
   ## License 
   This project is license under MIT
   
   ## Contributing 
-  n/a
+  Feel free to contribute to this project and provide a feedback to improve it.
   
   ## Tests
-  default
+  N/A
   
   ## Questions
-  If you have any questions about this projects, please contact me directly at sr.com. You can view more of my projects at https://github.com/sr.
+  If you have any questions about this projects, please contact me at shafat.rahman@gmail.com. You can view more of my projects at https://github.com/srahman9.
