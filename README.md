@@ -21,7 +21,7 @@
   You will require Node and download inquirer.
   
   ## Usage 
-  You will need to use the terminal to run Node Index and answer the questions. Please use the following link for a demonstration on how to use Node: 
+  You will need to use the terminal to run Node Index and answer the questions. Please use the following link for a demonstration on how to use Node: https://github.com/srahman9/readme-generator/blob/main/Develop/assets/Demonstration.mp4?raw=true
   
   ## License 
   This project is license under MIT
